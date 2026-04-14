@@ -1,4 +1,4 @@
-# 🚗 Car Showroom Management System (C# WinForms)
+# 🚗 Car Showroom Management System C#
 
 A **desktop-based Car Showroom Management System** developed using **C# and Windows Forms**.
 This application helps manage car inventory, customers, and sales operations in a simple and efficient way.
